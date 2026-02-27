@@ -1,5 +1,6 @@
-# The Living Existence Network (LEN)
-## เอกสารสถาปัตยกรรมระบบ (Architecture Specification) v1.0
+The Living Existence Network (LEN)
+เอกสารสถาปัตยกรรมระบบ (Architecture Specification) v2.0 - Core Evolution Focus
+
 
 ---
 
